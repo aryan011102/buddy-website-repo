@@ -128,7 +128,8 @@
   }
 
   .hero-title-wrapper {
-    height: 120px; /* tight on mobile */
+    height: 120px;
+    margin-top: 96px; /* tight on mobile */
   }
 
   .hero-cta {
