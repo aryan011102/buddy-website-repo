@@ -100,6 +100,7 @@
   pointer-events: none;
 }
 
+
 /* ================= MOBILE TEXT ================= */
 
 .hero-simple-text {
@@ -145,5 +146,8 @@
       black 70%,
       transparent 100%
     );
+       transform: scale(1.2);
+    transform-origin: bottom center;
+
   }
 }
