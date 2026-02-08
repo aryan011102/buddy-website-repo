@@ -68,7 +68,7 @@ export default function MagnifyText({ text }: { text: string }) {
       style={{
         position: "relative",
         width: "100%",
-        height: "100%",
+        height: "130%",
         cursor: "none",
       }}
     >
