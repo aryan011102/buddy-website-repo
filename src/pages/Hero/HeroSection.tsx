@@ -55,7 +55,7 @@ const positions = Array.from(elements).map((el, i) => {
 
 
   <p className="hero-subtitle">
-    Move smarter. Pack lighter.
+    Feel like home, away from home
   </p>
 
   <button className="hero-cta">
